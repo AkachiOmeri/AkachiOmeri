@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akachi
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Html, Css and JavaScript
-- 📫 How to reach me akachiomeri@gmail.com
+- 📫 Reach out to me - akachiomeri@gmail.com
 
 <!---
 AkachiOmeri/AkachiOmeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
